@@ -1,0 +1,10 @@
+noteMode:
+  tempoSection: {tapButton: "Tap Tempo", tempoKnob: "Tempo", swingKnob: "Swing"}
+  transportSection: {recButton: "Record", stopButton: "Stop Playback", playButton: "Begin Playback"}
+  knobs: ["Gate", "Step Mode (chord/arp)", "Note Slot Select" "Note Select"]
+  modeButtons: {control: "patternMode", gate: "Selection +", pitch: "Selection thru", mod: "Selection -", loop: "Deselect"}
+  ABCD: "Toggle selection of all notes in pattern"
+  grid: "As notated on device"
+
+patternMode:
+  knobs: ["Name letter position", "Name letter select", "Start Note", "Length"]
